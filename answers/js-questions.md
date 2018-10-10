@@ -71,7 +71,7 @@ AMD was born out of a group of developers that were displeased with the directio
 
 #### Explain `Function.prototype.bind`.
 
-*Not answered yet*
+*The answer is from https://stackoverflow.com/questions/7282158/function-prototype-bind*
 
 #### When would you use `document.write()`?
 
