@@ -16,7 +16,8 @@ sometimes don't need to add event listeners for every element.
 
 #### Explain how prototypal inheritance works
 
-*Not answered yet*
+*answere is from https://goo.gl/3L94qS* <br>
+The core idea of Prototypal Inheritance is that an object can point to another object and inherit all its properties. The main purpose is to allow multiple instances of an object to share common properties, hence, the Singleton Pattern.
 
 #### What do you think of AMD vs CommonJS?
 
