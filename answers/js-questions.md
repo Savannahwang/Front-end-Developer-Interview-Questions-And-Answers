@@ -63,7 +63,7 @@ AMD was born out of a group of developers that were displeased with the directio
 
 #### Difference between: `function Person(){}`, `var person = Person()`, and `var person = new Person()`?
 
-*Not answered yet*
+*The answer is from https://www.quora.com/In-Javascript-what-is-the-difference-between-function-Person-var-person-Person-var-person-new-Person*
 
 #### What's the difference between `.call` and `.apply`?
 
