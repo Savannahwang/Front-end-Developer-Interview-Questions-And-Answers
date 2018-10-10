@@ -67,7 +67,7 @@ AMD was born out of a group of developers that were displeased with the directio
 
 #### What's the difference between `.call` and `.apply`?
 
-*Not answered yet*
+*The answer is from https://stackoverflow.com/questions/1986896/what-is-the-difference-between-call-and-apply*
 
 #### Explain `Function.prototype.bind`.
 
