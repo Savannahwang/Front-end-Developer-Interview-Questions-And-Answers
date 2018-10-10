@@ -226,7 +226,7 @@ Disadvantage
 
 #### Explain the difference between synchronous and asynchronous functions.
 
-*The answer is from https://goo.gl/9RTnjx*
+*The answer is from https://goo.gl/9RTnjx*<br>
 Synchronous vs. Asynchronous Execution
 The difference between synchronous and asynchronous execution may seem a bit confusing at first. Program execution in most high-level languages is usually very straightforward. Your program starts at the first line of source code and each line of code executed sequentially thereafter. Easy enough.
 Synchronous program execution is somewhat similar to the above. Your program is executed line by line, one line at a time. Each time a function is called, program execution waits until that function returns before continuing to the next line of code.
