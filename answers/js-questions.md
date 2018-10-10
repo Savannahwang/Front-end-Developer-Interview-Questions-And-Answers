@@ -21,7 +21,11 @@ The core idea of Prototypal Inheritance is that an object can point to another o
 
 #### What do you think of AMD vs CommonJS?
 
-*Not answered yet*
+*The answere is from https://auth0.com/blog/javascript-module-systems-showdown/* <br>
+CommonJS is a project that aims to define a series of specifications to help in the development of server-side JavaScript applications. One of the areas the CommonJS team attempts to address are modules. Node.js developers originally intended to follow the CommonJS specification but later decided against it. <br>
+AMD was born out of a group of developers that were displeased with the direction adopted by CommonJS. In fact, AMD was split from CommonJS early in its development. The main difference between AMD and CommonJS lies in its support for asynchronous module loading. <br>
+"The main difference between AMD and CommonJS lies in its support for asynchronous module loading."<br>
+
 
 #### Explain why the following doesn't work as an IIFE: `function foo(){ }();`.
 
