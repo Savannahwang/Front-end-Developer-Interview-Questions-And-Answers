@@ -11,12 +11,12 @@ sometimes don't need to add event listeners for every element.
 
 #### Explain how `this` works in JavaScript
 
-*Answere is from https://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/*<br>
+*The answere is from https://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/*<br>
 'this' is used inside a function (let’s say function A) and it contains the value of the object that invokes function A. We need this to access methods and properties of the object that invokes function A, especially since we don’t always know the name of the invoking object, and sometimes there is no name to use to refer to the invoking object. Indeed, this is really just a shortcut reference for the “antecedent object”—the invoking object.
 
 #### Explain how prototypal inheritance works
 
-*answere is from https://goo.gl/3L94qS* <br>
+*The answere is from https://goo.gl/3L94qS* <br>
 The core idea of Prototypal Inheritance is that an object can point to another object and inherit all its properties. The main purpose is to allow multiple instances of an object to share common properties, hence, the Singleton Pattern.
 
 #### What do you think of AMD vs CommonJS?
