@@ -146,7 +146,7 @@ DOM tree.
 
 #### What is the difference between `==` and `===`?
 
-*Not answered yet*
+*The answer is from https://www.codecademy.com/en/forum_questions/558ea4f5e39efed371000508*
 
 #### Explain the same-origin policy with regards to JavaScript.
 
