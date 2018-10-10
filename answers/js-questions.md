@@ -211,7 +211,7 @@ Disadvantage
 
 #### What tools and techniques do you use debugging JavaScript code?
 
-*Not answered yet*
+*The answer is from https://developers.google.com/web/tools/chrome-devtools/javascript/*
 
 #### What language constructions do you use for iterating over object properties and array items?
 
