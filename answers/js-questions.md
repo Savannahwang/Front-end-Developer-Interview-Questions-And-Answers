@@ -226,8 +226,13 @@ Disadvantage
 
 #### Explain the difference between synchronous and asynchronous functions.
 
-*Not answered yet*
-
+*The answer is from https://goo.gl/9RTnjx*
+Synchronous vs. Asynchronous Execution
+The difference between synchronous and asynchronous execution may seem a bit confusing at first. Program execution in most high-level languages is usually very straightforward. Your program starts at the first line of source code and each line of code executed sequentially thereafter. Easy enough.
+Synchronous program execution is somewhat similar to the above. Your program is executed line by line, one line at a time. Each time a function is called, program execution waits until that function returns before continuing to the next line of code.
+This method of execution can have undesirable ramifications. Suppose a function is called to start a time consuming process. What if you want to stop the lengthy process? With synchronous execution, your program is “stuck,” waiting for the process to end, with no way out.
+Asynchronous execution avoids this bottleneck. You are essentially saying, “I know this function call is going to take a great deal of time, but my program doesn’t want to wait around while it executes.”
+Using asynchronous execution, the TakePicture() function returns immediately and shows the message. Although the two-minute process is not complete, your program can continue to execute. In this manner, your program could set the notCancelledByUser variable to FALSE to cancel the picture. It can also poll or ask the TakePicture() function when the exposure is completed, or if an error occurred during the process.<br>
 #### What is event loop?
 ###### What is the difference between call stack and task queue?
 
